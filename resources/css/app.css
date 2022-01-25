@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dataTables_length {
+    width: 20%;
+}
+
+.dataTables_length select {
+    width: 30%;
+}
+
+.green-btn-bg {
+    background-color: #68d391;
+}
+
+.green-btn-bg:hover{
+    background-color: #2f855a;
+}
